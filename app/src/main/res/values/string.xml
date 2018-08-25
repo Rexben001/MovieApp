@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="sort_by">Sort by</string>
+    <string name="overview">Overview</string>
+    <string name="sort_popular">Popular Movies</string>
+    <string name="sort_top_rated">Top Rated Movies</string>
+    <string name="game_of_thrones">Game of Thrones</string>
+    <string name="year_of_release">Year of Release</string>
+    <string name="duration">Duration</string>
+    <string name="popularity">Popularity</string>
+    <string name="user_rating">User Rating</string>
+    <string name="sort_by_key">sort by</string>
+
+    <string name="sort_popular_key">popular key</string>
+    <string name="sort_top_rated_key">top rated key</string>
+</resources>
